@@ -1,17 +1,27 @@
-# Strings
+"Strings"
 
-var fName = Robert
-var mName = Matthew
-var lName = Walter
+var fName = "Robert"
+var mName = "Matthew"
+var lName = "Walter"
 
-# Numbers
+"Numbers"
 
 var age = 41
 var born = 1981
 var weight = 260
 
-# Booleans
+"Booleans"
 
 var married = true
 var employed = false
 var happy = true
+
+
+var fName = "Kerri"
+var mName = "Lynn"
+var lName = "Taylor"
+
+
+console.log(fName);
+console.log(lName);
+console.log(married);

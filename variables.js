@@ -1,5 +1,5 @@
-# Hello World!
+# Strings
 
-var firtsName = Robert
-var middleName = Matthew
-var lastName = Walter
+var fName = Robert
+var mName = Matthew
+var lName = Walter
